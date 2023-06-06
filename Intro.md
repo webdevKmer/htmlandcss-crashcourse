@@ -43,6 +43,27 @@ The **BODY**-Tag contains the structure of the html page. It's the *visible* par
 <a target="_blank" title="Visit the Google Website.">Google</a>
 ```
 
+##### FAVICON
+Favicon should be images less than 96x96px. They can be .ico .svg
+```html
+    <link rel="shortcut icon" href="path/to/favicon.ico" type="image/x-icon">
+```
+
+##### SPAN and DIV
+Span is an inline container to group elements for styling.
+Div is an block container to group elements for styling.
+
+##### Lists
+###### Unordered List
+###### Ordered List
+###### Definition List
+
+##### Tables
+```html
+    <table>
+```
+
+
 ### CSS
 #### Definition
 **C***ascading* **S***tyle* **S***heet*
