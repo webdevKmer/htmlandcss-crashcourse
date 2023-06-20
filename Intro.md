@@ -69,3 +69,24 @@ Div is an block container to group elements for styling.
 **C***ascading* **S***tyle* **S***heet*
 
 *CSS* defines the look and feel of the page.
+##### BORDER
+Different types *inset*, *outset*, *solid*,...
+##### SHADOW
+##### Text-Shadow
+```html
+<h3 style="font-size: 2rem; text-shadow: 3px 5px 5px blue;">Patrick Montheu</h3>
+```
+- First parameter : Horizontal offset
+- Second parameter : Vertical offset
+- Third parameter : Blur effect
+- Additionnal parameter can be add for the color. Here *blue*
+##### Box-Shadow
+```html
+<h3 style="font-size: 2rem; box-shadow: 3px 5px 5px blue;">Patrick Montheu</h3>
+```
+- First parameter : Horizontal offset
+- Second parameter : Vertical offset
+- Third parameter : Blur effect
+- Additionnal parameter can be add for the color. Here *blue*
+##### MARGIN
+Margin is the space between the elements
